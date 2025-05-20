@@ -17,5 +17,9 @@ git remote add origin https://github.com/syarifah123/kela-react.git
 git remote -v 
 git push --set-upstream origin master   
 ## kalo mau push
-git commit -m "update project"
+git add .
+git commit -m "isi deskripsi nya terserah"
+kalo udah muncul folder gt berarti udah bisa langsung masuk ke vercel
 git push
+
+hubungin dulu vercel nya ke git hub "syarifah123"
