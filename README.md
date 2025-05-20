@@ -16,3 +16,6 @@ If you are developing a production application, we recommend using TypeScript wi
 git remote add origin https://github.com/syarifah123/kela-react.git
 git remote -v 
 git push --set-upstream origin master   
+## kalo mau push
+git commit -m "update project"
+git push
